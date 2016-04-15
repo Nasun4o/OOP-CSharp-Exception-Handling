@@ -1,0 +1,12 @@
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkExceptionHandling\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Exception handling\HomeWorkExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Exception handling\HomeWorkExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Exception handling\HomeWorkExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Exception handling\HomeWorkExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Exception handling\HomeWorkExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Exception handling\HomeWorkExceptionHandling\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
